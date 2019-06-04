@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/easy-shop/easy-shop.iml" filepath="$PROJECT_DIR$/easy-shop/easy-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyshop.iml" filepath="$PROJECT_DIR$/easyshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-core/web-core.iml" filepath="$PROJECT_DIR$/web-core/web-core.iml" />
+    </modules>
+  </component>
+</project>
